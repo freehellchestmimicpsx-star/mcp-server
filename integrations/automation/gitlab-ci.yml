@@ -1,0 +1,9 @@
+# GitLab CI example
+stages:
+  - analyze
+
+code_analysis:
+  stage: analyze
+  image: python:3.11
+  script:
+    - echo "Trigger MCP analysis via API"

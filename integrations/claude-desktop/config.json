@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "codecregistry": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-fetch",
+        "https://integrator.app.thecoderegistry.com/api/ai/router"
+      ]
+    }
+  }
+}

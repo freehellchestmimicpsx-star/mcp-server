@@ -1,0 +1,17 @@
+{
+  "create_account": {
+    "status": "created",
+    "team": {"id": "<team_id>", "name": "<team_name>"},
+    "user": {"id": "<user_id>", "email": "<email>"},
+    "credentials": {"api_key": "<api_key>", "type": "ai_integrator"}
+  },
+  "create_code_vault": {
+    "vault": {
+      "id": "<vault_id>",
+      "project_id": "<project_id>",
+      "version_id": "<version_id>",
+      "name": "<vault_name>",
+      "created": true
+    }
+  }
+}

@@ -1,0 +1,13 @@
+# Analyze code on every PR
+name: Code Analysis
+on: [pull_request]
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run Code Registry Analysis
+        run: |
+          # Use Claude API to trigger analysis
+          # Post results as PR comment

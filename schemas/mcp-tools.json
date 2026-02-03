@@ -1,0 +1,18 @@
+{
+  "tools": [
+    {
+      "name": "create_account",
+      "description": "Create a Code Registry account",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "email": {"type": "string"},
+          "name": {"type": "string"},
+          "team_name": {"type": "string"},
+          "integrator_id": {"type": "string"}
+        },
+        "required": ["email", "name", "team_name"]
+      }
+    }
+  ]
+}
