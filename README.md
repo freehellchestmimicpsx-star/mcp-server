@@ -72,7 +72,15 @@ If the user already has a Code Registry account, they can generate an API key in
 - **Executive-friendly reports**: PDF reports automatically emailed to the user, ready for non-technical stakeholders
 - **Multiple sources**: local repos or folders of code, GIT repositories, or file archives
 
-## Quick Start
+## Sample prompts for your AI agent or system
+
+Once the MCP server is configured, you can ask your AI agent or system questions like:
+
+- "Use The Code Registry to analyze this codebase and present the results in a nice way."
+- "Re-analyze this project's code with The Code Registry to show me what's changed since the last analysis."
+- "Get the latest analysis for Project X from my Code Registry account and present them to me (here's my API key: XXX)."
+
+## MCP Protocol Quick Start
 
 ### 0) Initialize (recommended)
 
